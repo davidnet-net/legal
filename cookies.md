@@ -1,7 +1,8 @@
 # Cookies
 This Cookie Policy explains how Davidnet (“we,” “us,” or “our”) uses cookies and similar technologies when you visit Davidnet.
 
-It explains what these technologies are, how we use them, and the choices available to you. This Cookie Policy should be read alongside our [privacy policy](https://davidnet.net/legal/privacy_policy), which provides more information about how we handle personal information.
+It explains what these technologies are, how we use them, and the choices available to you. This Cookie Policy should be read alongside our 
+[privacy policy](https://davidnet.net/legal/privacy_policy), which provides more information about how we handle personal information.
 
 ## What are cookies?
 
@@ -13,7 +14,7 @@ Some cookies last only for the duration of your browsing session and expire when
 
 ## How do we use cookies?
 
-We use cookies and similar technologies for [describe the purposes that apply to your website].
+We use cookies and similar technologies for letting Davidnet work.
 
 Depending on how you use our Website, these may include:
 
@@ -28,7 +29,8 @@ Depending on how you use our Website, these may include:
 
     - cf_clearance:
     <br>
-    This is a security cookie by cloudflare. View our sub processors information [here](https://davidnet.net/legal/sub_processors).
+    This is a security cookie by cloudflare. View our sub processors information
+    [here](https://davidnet.net/legal/sub_processors).
  - **Preference cookies:**:
      - date_format_cache:
     <br>
