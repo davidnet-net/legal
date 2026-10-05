@@ -14,6 +14,8 @@ Users are expected to interact respectfully. Any behavior that violates our [Com
 ## 4. Intellectual Property
 All original code, branding, and content created for Davidnet are the intellectual property of the project creator. If you believe any content hosted on the platform infringes upon copyrights, please refer to our [DMCA policy](https://davidnet.net/legal/dmca_policy).
 
+© 2025 - 2026 Davidnet. All rights reserved.
+
 ## 5. Termination
 We reserve the right to suspend or terminate your access to Davidnet at our sole discretion, without notice, for conduct that violates these terms or is harmful to other users or us. You may also delete your account at any time.
 
