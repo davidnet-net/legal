@@ -11,6 +11,9 @@ You agree not to use Davidnet to engage in any activity that is illegal, harmful
 * **Intellectual Property Violations:** Uploading, sharing, or distributing content that infringes upon the intellectual property or privacy rights of others.
 * **Unauthorized Access:** Attempting to gain unauthorized access to other user accounts, tokens, or restricted areas of the platform.
 
+## User Responsibility for Uploaded Content
+You are solely responsible for any content you upload, post, or share on Davidnet. Davidnet does not review all content before publication and does not endorse or take responsibility for User Content. Any legal or other consequences arising from content you upload are your responsibility alone, not Davidnet's.
+
 ## Reporting Content
 If you find content that violates these guidelines, you can use the report button available on any public content. You can view the status of your reports and track them here: [https://davidnet.net/moderation/reports](https://davidnet.net/moderation/reports).
 

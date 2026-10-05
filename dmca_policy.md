@@ -2,6 +2,8 @@
 
 Davidnet is a personal project operated independently from the Netherlands. We respect the intellectual property rights of others and expect our users to do the same.
 
+Users who upload content to Davidnet are solely responsible for ensuring they have the rights to do so. Davidnet does not review content before publication and is not liable for copyright infringement committed by its users.
+
 ## Reporting Copyright Infringement
 If you believe that content hosted on Davidnet infringes your copyright, you can submit a DMCA takedown notice. To be effective, your notice must include the following information:
 
