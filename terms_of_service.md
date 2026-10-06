@@ -18,13 +18,15 @@ By uploading User Content, you confirm that you have the necessary rights to it 
 
 When you choose to publish or share User Content on or through Davidnet, you grant Davidnet a non-exclusive, worldwide, royalty-free license to host, store, reproduce, display, and distribute that User Content for the purpose of operating and providing the platform. This license lasts only as long as your User Content remains published on Davidnet and ends once you remove it or delete your account, except for copies already made for backups or legal compliance.
 
+We reserve the right, at our sole discretion and at any time, to remove or disable access to any User Content, with or without notice.
+
 ## 5. Intellectual Property
 All original code, branding, and content created for Davidnet are the intellectual property of the project creator. If you believe any content hosted on the platform infringes upon copyrights, please refer to our [DMCA policy](https://davidnet.net/legal/dmca_policy).
 
 © 2025 - 2026 Davidnet. All rights reserved.
 
 ## 6. Termination
-We reserve the right to suspend or terminate your access to Davidnet at our sole discretion, without notice, for conduct that violates these terms or is harmful to other users or us. You may also delete your account at any time.
+We reserve the right to suspend, terminate, or delete your account, at our sole discretion and at any time, with or without notice, for conduct that violates these terms or is harmful to other users or us. You may also delete your account at any time.
 
 ## 7. Limitation of Liability
 Davidnet is provided on an "as is" and "as available" basis. To the maximum extent permitted by Dutch and EU law, Davidnet shall not be liable for any indirect, incidental, or consequential damages arising out of your use of the platform, including damages arising from User Content.
