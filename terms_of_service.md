@@ -16,6 +16,8 @@ Davidnet allows users to upload, post, and share content ("User Content"). You r
 
 By uploading User Content, you confirm that you have the necessary rights to it and that it does not violate our [Community guidelines](https://davidnet.net/legal/community_guidelines), [Acceptable use policy](https://davidnet.net/legal/acceptable_use_policy), or any applicable law. Davidnet does not review all User Content before it is published and does not endorse, verify, or take responsibility for any User Content. Any liability, loss, or claim arising from User Content you upload is yours alone, not Davidnet's.
 
+When you choose to publish or share User Content on or through Davidnet, you grant Davidnet a non-exclusive, worldwide, royalty-free license to host, store, reproduce, display, and distribute that User Content for the purpose of operating and providing the platform. This license lasts only as long as your User Content remains published on Davidnet and ends once you remove it or delete your account, except for copies already made for backups or legal compliance.
+
 ## 5. Intellectual Property
 All original code, branding, and content created for Davidnet are the intellectual property of the project creator. If you believe any content hosted on the platform infringes upon copyrights, please refer to our [DMCA policy](https://davidnet.net/legal/dmca_policy).
 
