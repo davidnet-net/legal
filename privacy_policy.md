@@ -15,13 +15,16 @@ We use your data solely to operate, secure, and improve Davidnet:
 * Storing your personal configurations and content preferences across sessions.
 * Enforcing our [Community Guidelines](https://davidnet.net/legal/community_guidelines) and [Acceptable Use Policy](https://davidnet.net/legal/acceptable_use_policy) via our moderation and reporting systems.
 
-## 3. Managing and Exporting Your Data
+## 3. Data Retention
+We retain your personal data and User Content for as long as your account remains active. If you delete a specific piece of content, we remove that item from our active systems; if you delete your account, we remove your personal data and content in full. We do not keep your data longer than that, except where a copy must be kept temporarily for backups or to comply with a legal obligation.
+
+## 4. Managing and Exporting Your Data
 Under EU law (GDPR), you have full control over your personal information. You can view, manage, export, or permanently delete your account data at any time by visiting your account management page: [https://account.davidnet.net/manage/data](https://account.davidnet.net/manage/data).
 
-## 4. Infrastructure & Data Processing
+## 5. Infrastructure & Data Processing
 We self-host our core application backend and database while utilizing trusted edge and domain providers. You can review our infrastructure setup in our [Sub-Processors Policy](https://davidnet.net/legal/sub_processors) and [Security Policy](https://davidnet.net/legal/security).
 
-## 5. Contact Us
+## 6. Contact Us
 If you have any questions or requests regarding your privacy or data rights, please reach out via our [Contact Page](https://davidnet.net/legal/contact).
 
 You can review all other legal policies and platform guidelines at [https://davidnet.net/legal](https://davidnet.net/legal).
